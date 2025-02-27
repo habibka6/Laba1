@@ -6,3 +6,7 @@ int add(int a, int b) {
 int subtract(int a, int b) {
     return a - b;
 }
+// Функция multiply для умножения двух чисел
+int multiply(int a, int b) {
+    return a * b;
+}
